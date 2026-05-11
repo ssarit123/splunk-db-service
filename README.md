@@ -4,7 +4,7 @@ First deployment
 
 Second-deployment
 
-Thirld develpment while demo to siva 111
+Thirld develpment while demo to siva 1112
 
 Standalone REST API that wraps a local SQLite mock Splunk database.  
 The MCP server calls this service instead of hitting a real Splunk Cloud instance.
