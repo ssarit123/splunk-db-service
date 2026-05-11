@@ -2,6 +2,8 @@
 
 First deployment
 
+second deployment
+
 Standalone REST API that wraps a local SQLite mock Splunk database.  
 The MCP server calls this service instead of hitting a real Splunk Cloud instance.
 
